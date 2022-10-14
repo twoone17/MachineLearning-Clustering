@@ -75,3 +75,7 @@ Result :
 ![image](https://user-images.githubusercontent.com/84762786/195783531-afb56c99-6fc0-4238-a4ae-d07b3236dd6b.png)
 
 See more details in AutoML (5).ipynb file
+
+<h2>User Manual</h2>
+    
+![image](https://user-images.githubusercontent.com/84762786/195783980-2e9f2b13-6d8e-4b7e-aaec-084bbd3c50c4.png)
