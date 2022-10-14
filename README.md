@@ -24,8 +24,7 @@ Model type : &lt;k-means, em, clarans, dbscan, affinity>
 <p>
 
 <h3>
-You can use AutoML function to automatically run different combinations of the above within a <br/>
-“single major function”.
+You can use AutoML function to automatically run different combinations of the above within a <br/>“single major function”.
 </h3>
 
 def AutoML(scaler, encoder, model,train) :
